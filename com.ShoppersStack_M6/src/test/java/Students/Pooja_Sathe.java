@@ -7,7 +7,7 @@ public class Pooja_Sathe {
 	
 	public void demo() {
 		
-		System.err.println("Welcome to Selenium");
+		System.out.println("Welcome to Selenium");
 	}
 
 }
